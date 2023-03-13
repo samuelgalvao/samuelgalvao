@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Ricardo</h1>
 <h3 align="center">An enthusiastic frontend developer based in Brazil</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40jalexis%2Fmy-journey-as-a-new-programmer-62dced88cb35&psig=AOvVaw3W7Nk8T4PzxguLOBzvX3CV&ust=1678817648579000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCc2J7B2f0CFQAAAAAdAAAAABAQ](https://miro.medium.com/v2/resize:fit:640/1*0UUwxZdDkbim-aiNVMa_mg.gif)">
 
 - 🔭 I’m currently working on [KanjiFlash](https://github.com/samuelgalvao/Kanji-Flash.git)
 
