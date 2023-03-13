@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FWenmuZhou&psig=AOvVaw1FY8PFzE21b-K5Z-KLqqAy&ust=1678817820064000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMier_DB2f0CFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FWenmuZhou&psig=AOvVaw1FY8PFzE21b-K5Z-KLqqAy&ust=1678817820064000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMier_DB2f0CFQAAAAAdAAAAABAE)]([https://rishavchanda.io](http://ww25.rishavchanda.io/?subid1=20230314-0519-1025-8693-fee2bc0a19ef))
 
 <h1 align="center">Hi 👋, I'm Samuel Ricardo</h1>
 <h3 align="center">An enthusiastic frontend developer based in Brazil</h3>
