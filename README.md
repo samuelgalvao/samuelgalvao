@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Ricardo</h1>
 <h3 align="center">An enthusiastic frontend developer based in Brazil</h3>
 
-- 🔭 I’m currently working on [KanjiFlash](https://github.com/samuelgalvao/Kanji-Flash.git)
+- 🔭 I’m currently working on [Minotauro-AI](https://github.com/samuelgalvao/Minotauro-AI.git)
 
 - 🌱 I’m currently learning **Python, Machine Learning, AI development in general**
 
